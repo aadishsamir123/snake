@@ -11,4 +11,4 @@ Check releases for different releases that you can view.
 
 If you want to play this game, go to this link: https://aadishsamir123.github.io/snake
 
-Please do inform me of issues in the issues tab so I can make changes. My current change that I am trying to make is that the snake dies upon collision with the wall.
+Please do inform me of issues in the issues tab so I can make changes.
