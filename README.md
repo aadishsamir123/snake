@@ -10,5 +10,7 @@ I have open-sourced this game so that you all can clone it and make it your own 
 Check releases for different releases that you can view.
 
 If you want to play this game, go to this link: https://aadishsamir123.github.io/snake
+Or, you can also install it onto your system!
+Please note that the system version will be different from the web version!
 
 Please do inform me of issues in the issues tab so I can make changes.
